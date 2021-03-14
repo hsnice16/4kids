@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/4kids/static/css/main.ad733dd1.chunk.css",
+    "main.js": "/4kids/static/js/main.f485dc7e.chunk.js",
+    "main.js.map": "/4kids/static/js/main.f485dc7e.chunk.js.map",
+    "runtime-main.js": "/4kids/static/js/runtime-main.a989a29b.js",
+    "runtime-main.js.map": "/4kids/static/js/runtime-main.a989a29b.js.map",
+    "static/js/2.50acb3d0.chunk.js": "/4kids/static/js/2.50acb3d0.chunk.js",
+    "static/js/2.50acb3d0.chunk.js.map": "/4kids/static/js/2.50acb3d0.chunk.js.map",
+    "index.html": "/4kids/index.html",
+    "static/css/main.ad733dd1.chunk.css.map": "/4kids/static/css/main.ad733dd1.chunk.css.map",
+    "static/js/2.50acb3d0.chunk.js.LICENSE.txt": "/4kids/static/js/2.50acb3d0.chunk.js.LICENSE.txt",
+    "static/media/cyn.jpg": "/4kids/static/media/cyn.3053e2de.jpg",
+    "static/media/dog.jpg": "/4kids/static/media/dog.03e7f16b.jpg",
+    "static/media/duck-cart.jpg": "/4kids/static/media/duck-cart.5b7cb32c.jpg",
+    "static/media/ele-cart.png": "/4kids/static/media/ele-cart.d9432fe6.png",
+    "static/media/hor-cart.png": "/4kids/static/media/hor-cart.1b856ec5.png",
+    "static/media/micky.png": "/4kids/static/media/micky.d1bf95ad.png",
+    "static/media/oba.jpg": "/4kids/static/media/oba.172e3608.jpg",
+    "static/media/stu.jpg": "/4kids/static/media/stu.07825246.jpg",
+    "static/media/super-man.jpg": "/4kids/static/media/super-man.29937821.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a989a29b.js",
+    "static/js/2.50acb3d0.chunk.js",
+    "static/css/main.ad733dd1.chunk.css",
+    "static/js/main.f485dc7e.chunk.js"
+  ]
+}
